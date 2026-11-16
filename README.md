@@ -1,53 +1,51 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Mufeed%20J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MERN%20Stack%20Developer%20%7C%20Building%20Scalable%20APIs%20%26%20Real-Time%20Web%20Apps&descAlignY=62&descSize=16" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════
+     Replace every  YOUR_USERNAME  with your GitHub username,
+     and the  YOUR_*  links (LinkedIn, email, portfolio, live demos).
+     ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Mufeed+%F0%9F%91%8B;MERN+Stack+Developer;Backend+%7C+APIs+%7C+Real-Time+Apps;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6366f1,100:06b6d4&height=220&section=header&text=Mohamed%20Mufeed%20J&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%E2%80%A2%20Creative%20Digital%20Designer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=640&lines=I+build+SaaS+products+end-to-end+%F0%9F%9A%80;React+%E2%80%A2+Next.js+%E2%80%A2+Node+%E2%80%A2+Express+%E2%80%A2+MongoDB;Mobile+apps+with+React+Native+%26+Flutter+%F0%9F%93%B1;Pixel-perfect+UI+%E2%80%A2+Clean+APIs+%E2%80%A2+Real+products" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<p align="center">
-  <a href="mailto:mmufeed493@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/mohamed-mufeed-j/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://mohamedmufeed.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
-  <a href="https://github.com/mufeee09"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=mufeee09&style=flat-square&color=70a5fd&label=Profile+Views"/>
-</p>
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🟢%20Open%20to%20work-Full--Stack%20%2F%20MERN%20roles%20•%20Dubai%20%2F%20Remote-22c55e?style=flat-square" />
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="380" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/images/coding-animation.gif" />
 
-```javascript
+```js
 const mufeed = {
-  name        : "Mohamed Mufeed J",
-  location    : "Erode, Tamil Nadu, India 🇮🇳",
-  degree      : "B.Tech in Information Technology (2025)",
-  college     : "Erode Sengunthar Engineering College",
-  email       : "mmufeed493@gmail.com",
-  portfolio   : "mohamedmufeed.pages.dev",
-
-  stack: [
-    "JavaScript", "Node.js", "Express.js",
-    "React.js", "React Native", "MongoDB",
-    "MySQL", "PostgreSQL"
-  ],
-
-  currentlyLearning: [
-    "Cloud Deployment & DevOps",
-    "Mobile App Development",
-    "System Design & Scalability"
-  ],
-
-  funFact : "I debug with console.log and I'm proud of it 😄",
-
-  motto() {
-    return "Build it. Break it. Fix it. Ship it. 🚀";
-  }
+  role:        "Full-Stack MERN Developer",
+  experience:  "Backend Developer @ Nutz Technovation (2025 – 2026)",
+  education:   "B.Tech — Information Technology (2021 – 2025)",
+  based:       "Tamil Nadu, India 🇮🇳  →  open to Dubai 🇦🇪",
+  focus:       ["SaaS products", "Admin dashboards", "E-commerce", "Mobile apps"],
+  superpower:  "Shipping backend logic AND premium UI in the same sprint",
+  currently:   "Building Ritecard — a digital business-card SaaS 💳",
+  hobbies:     ["UI/UX design", "Animated web experiences", "AI video craft"],
 };
 ```
+
+- 🚀 I take products from **idea → API → UI → deployment**
+- 🔐 I care about the boring-but-critical stuff: **auth, roles, 2FA, security rules, payments**
+- 🎨 Strong eye for design — I build interfaces that **don't look template-made**
 
 <br clear="right"/>
 
@@ -55,167 +53,195 @@ const mufeed = {
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-**Cloud & DevOps**
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Tools**
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/mufeee09">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mufeee09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/mufeee09">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mufeee09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
-</div>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mufeee09&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mufeee09&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mufeee09&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-</div>
-
----
-
-## 💼 Work Experience
-
-<details>
-  <summary><b>🏢 Nutz Technovation — Backend Developer · 2025 · Remote</b></summary>
-  <br/>
-
-  ### 🐾 Vetsline — Veterinary Platform
-  > `Node.js` `Express.js` `MongoDB` `REST API`
-
-  - Built scalable REST APIs supporting Admin, Doctor, and Customer role workflows, improving overall system modularity.
-  - Optimized database schema design, reducing query execution time and enhancing data consistency across services.
-  - Improved API response performance, resulting in faster and more reliable user interactions across all panels.
-
-  ---
-
-  ### 🪨 Q-APP — Quarry Operations Platform
-  > `Node.js` `Express.js` `Firebase` `Real-Time Messaging`
-
-  - Developed backend logic to manage the complete order lifecycle across multiple user roles.
-  - Integrated Firebase real-time messaging, enabling low-latency communication between platform users.
-  - Engineered APIs to handle high-volume concurrent transactions with improved reliability and fault tolerance.
-
-  ---
-
-  ### 🛡️ SamudhrikaLakshana — RBAC-Based Operations Platform
-  > `Node.js` `Express.js` `MongoDB` `RBAC`
-
-  - Developed a role-based access control (RBAC) system to manage product flow across multiple stakeholders.
-  - Enforced fine-grained data access restrictions to ensure secure multi-role visibility of sensitive operations.
-  - Optimized backend workflows to streamline and automate product lifecycle operations end-to-end.
-
-</details>
-
----
-
-## 🚀 Featured Projects
-
 <div align="center">
 
-| Project | Stack | Highlights |
-|:-------:|:-----:|:----------:|
-| [**Info-Chat**](https://github.com/mufeee09) 🤖 | `Node.js` `Express` `OpenAI API` `REST` | AI-powered chatbot with dynamic query handling via OpenAI API; built backend APIs for real-time response pipeline and a lightweight conversational UI |
-| [**Native Food**](https://github.com/mufeee09) 🍛 | `Node.js` `Express` `MongoDB` `React` | Regional food ordering platform with RESTful APIs for menu/order management; user-friendly browse & checkout interface focused on local cuisines |
-| [**MechMart**](https://github.com/mufeee09) 🔧 | `Node.js` `Express` `EJS` `MongoDB` | Mechanical tools e-commerce platform with server-side rendering via EJS; full product listing, cart management, and purchase flow |
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,vite&perline=8" />
+
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase&perline=8" />
+
+### Mobile
+<img src="https://skillicons.dev/icons?i=react,flutter,dart,androidstudio&perline=8" />
+
+### Tools & Deployment
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,cloudflare,vscode,figma&perline=8" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-6366f1?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT%20%2F%202FA-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 
 </div>
 
 ---
 
-## 🎖️ Achievements & Activities
+## 💼 Experience
+
+<table>
+<tr>
+<td width="80" align="center"><img src="https://img.icons8.com/fluency/64/server.png" width="48"/></td>
+<td>
+
+**Backend Developer** — *Nutz Technovation*
+<sub>📅 Mar 2025 – Oct 2026</sub>
+
+- Designed and built REST APIs with **Node.js, Express** and SQL / NoSQL databases
+- Implemented authentication, role-based access and secure admin workflows
+- Collaborated with frontend & DevOps teams to ship features to production
+
+</td>
+</tr>
+<tr>
+<td width="80" align="center"><img src="https://img.icons8.com/fluency/64/rocket.png" width="48"/></td>
+<td>
+
+**Freelance Full-Stack Developer** — *Independent*
+<sub>📅 2025 – Present</sub>
+
+- Delivered SaaS, e-commerce and business websites for clients end-to-end
+- Integrated payments (**Razorpay**), media pipelines (**Cloudinary**) and Firebase backends
+- Deployed on **Vercel** and **Cloudflare Pages** with SEO-ready builds
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💳 Ritecard
+**Digital business-card SaaS** — create, share and manage smart contact cards. Multi-theme builder, super-admin panel, subscription-ready, NFC flow on the roadmap.
+
+`React` `Vite` `Node.js` `Express` `SaaS`
+
+[🔗 Live](YOUR_LINK) · [📂 Code](https://github.com/YOUR_USERNAME/REPO)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌸 Atrab Aromatics
+**Perfume e-commerce store** — product catalogue, verified customer accounts, cart & checkout with **Razorpay** payments, plus an admin dashboard.
+
+`React` `Tailwind` `Firebase` `Razorpay` `Vercel`
+
+[🔗 Live](YOUR_LINK) · [📂 Code](https://github.com/YOUR_USERNAME/REPO)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧭 CommandDesk
+**Executive productivity dashboard** — tasks, priorities and team flow in one command centre, built in phased releases.
+
+`React` `Node.js` `PostgreSQL`
+
+[📂 Code](https://github.com/YOUR_USERNAME/REPO)
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Islamic Companion App
+**Mobile app + web admin portal** — video & audio bayans, daily Hadith, and **Noor AI** chat powered by Gemini. Shared Firebase backend with 2FA-protected admin.
+
+`Flutter / React Native` `Firebase` `Gemini AI`
+
+[📂 Code](https://github.com/YOUR_USERNAME/REPO)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗓️ Multicultural Calendar
+**Gregorian + Hijri + Tamil calendar** web app with a print studio (1 / 3 / 12 months per page, portrait or landscape).
+
+`React` `Vite` `Cloudflare Pages`
+
+[🔗 Live](YOUR_LINK) · [📂 Code](https://github.com/YOUR_USERNAME/REPO)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏡 Real Estate Platform
+**Property listings marketplace** across Indian states & cities with location filters, Cloudinary image pipeline and Google-sign-in + 2FA admin.
+
+`React` `Firebase` `Cloudinary`
+
+[🔗 Live](YOUR_LINK) · [📂 Code](https://github.com/YOUR_USERNAME/REPO)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 👜 Iqbal Impex
+**Leather brand showcase** — heritage story, company profile, gallery and contact, with a custom hand-crafted look.
+
+`React` `Cloudflare Pages` `SEO`
+
+[🔗 Live](https://iqbalimpex.pages.dev)
+
+</td>
+<td width="50%" valign="top">
+
+### 💌 Animated Wedding Invitation
+**Premium single-page invitation** — card-opening animation, floral SVG art, song requests and a wishes wall.
+
+`HTML` `CSS` `JavaScript` `SVG Animation`
+
+[🔗 Live](YOUR_LINK)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-| 🏅 | Achievement | Details |
-|:--:|:-----------:|:-------:|
-| 🖥️ | **Web Development Internship** | NextGenPro Innovation Pvt Ltd · May 2023 |
-| 🎓 | **Workshop — Computational Social Science with Python** | NIT Trichy · July 2023 |
-| 🌐 | **MERN Stack Developer** | Skilled in building RESTful APIs, real-time apps & multi-role systems |
-| 🤖 | **AI Integration** | Built AI-powered chatbot integrating OpenAI API into a full-stack app |
-| 🔒 | **RBAC Architecture** | Designed and implemented role-based access control for a production platform |
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06b6d4&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" />
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=06b6d4&currStreakLabel=6366f1" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=c9d1d9&line=6366f1&point=06b6d4&area=true&area_color=6366f1&hide_border=true" />
 
 </div>
 
 ---
 
-## 🎓 Education
+## 🐍 Contribution Snake
 
 <div align="center">
-
-| Degree | Institution | Duration | Stream |
-|:------:|:-----------:|:--------:|:------:|
-| **B.Tech — Information Technology** | Erode Sengunthar Engineering College | Aug 2021 – May 2025 | Information Technology |
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+</picture>
 </div>
 
 ---
 
-## 🧱 Currently Learning
-
-```
-🧱 Cloud & DevOps  →  AWS / GCP basics, Docker, CI/CD Pipelines
-📱 Mobile Dev      →  React Native (Advanced Patterns, Navigation, Native Modules)
-🏗️ System Design   →  Scalability, Caching Strategies, Microservices
-🔐 Security        →  JWT Best Practices, OAuth2, Secure API Design
-```
-
----
+## 🤝 Let's Build Something
 
 <div align="center">
-  <i>✨ "Build it. Break it. Fix it. Ship it." ✨</i>
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+
+**I'm open to full-stack / MERN roles — Dubai, on-site or remote — and freelance projects.**
+
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Hire%20Me-6366f1?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6366f1,100:0f172a&height=120&section=footer" width="100%" />
+
 </div>
