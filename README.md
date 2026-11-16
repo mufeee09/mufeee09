@@ -102,7 +102,7 @@ Create, share and manage smart contact cards. Multi-theme builder, super-admin p
 Product catalogue, verified customer accounts, cart and checkout with **Razorpay** payments, plus an admin dashboard.
 
 <sub>`React` `Tailwind` `Firebase` `Razorpay`</sub><br/>
-[Live ↗](https://atrabaromatics.vercel.app/) · [Code ↗](https://github.com/mufeee09/Perfumery)
+[Live ↗](https://atrabaromatics.vercel.app/) · [Code ↗](https://github.com/mufeee09/AtrabPerfumes)
 
 </td>
 </tr>
