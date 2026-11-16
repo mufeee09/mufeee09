@@ -1,8 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════════
-     Replace every  YOUR_USERNAME  with your GitHub username,
-     and the  YOUR_*  links (LinkedIn, email, portfolio, live demos).
-     ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6366f1,100:06b6d4&height=220&section=header&text=Mohamed%20Mufeed%20J&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%E2%80%A2%20Creative%20Digital%20Designer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
@@ -13,10 +8,10 @@
 
 <br/>
 
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
+<a href="https://mohamedmufeed.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mohamed-mufeed-j/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mmufeed493@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=mufeee09&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
@@ -122,8 +117,6 @@ const mufeed = {
 
 `React` `Vite` `Node.js` `Express` `SaaS`
 
-[🔗 Live](YOUR_LINK) · [📂 Code](https://github.com/YOUR_USERNAME/REPO)
-
 </td>
 <td width="50%" valign="top">
 
@@ -132,7 +125,7 @@ const mufeed = {
 
 `React` `Tailwind` `Firebase` `Razorpay` `Vercel`
 
-[🔗 Live](YOUR_LINK) · [📂 Code](https://github.com/YOUR_USERNAME/REPO)
+[🔗 Live](https://atrabaromatics.vercel.app/) · [📂 Code](https://github.com/mufeee09/Perfumery)
 
 </td>
 </tr>
@@ -144,17 +137,15 @@ const mufeed = {
 
 `React` `Node.js` `PostgreSQL`
 
-[📂 Code](https://github.com/YOUR_USERNAME/REPO)
-
 </td>
 <td width="50%" valign="top">
 
 ### 📱 Islamic Companion App
 **Mobile app + web admin portal** — video & audio bayans, daily Hadith, and **Noor AI** chat powered by Gemini. Shared Firebase backend with 2FA-protected admin.
 
-`Flutter / React Native` `Firebase` `Gemini AI`
+`Flutter` `Firebase` `Gemini AI`
 
-[📂 Code](https://github.com/YOUR_USERNAME/REPO)
+[📥 Download APK](https://sirat-an-nur.vercel.app/)
 
 </td>
 </tr>
@@ -166,7 +157,7 @@ const mufeed = {
 
 `React` `Vite` `Cloudflare Pages`
 
-[🔗 Live](YOUR_LINK) · [📂 Code](https://github.com/YOUR_USERNAME/REPO)
+[🔗 Live](https://moosa-sons.pages.dev/)
 
 </td>
 <td width="50%" valign="top">
@@ -176,29 +167,19 @@ const mufeed = {
 
 `React` `Firebase` `Cloudinary`
 
-[🔗 Live](YOUR_LINK) · [📂 Code](https://github.com/YOUR_USERNAME/REPO)
+[🔗 Live](https://almadinaguesthouse.pages.dev/)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### 👜 Iqbal Impex
 **Leather brand showcase** — heritage story, company profile, gallery and contact, with a custom hand-crafted look.
 
 `React` `Cloudflare Pages` `SEO`
 
-[🔗 Live](https://iqbalimpex.pages.dev)
-
-</td>
-<td width="50%" valign="top">
-
-### 💌 Animated Wedding Invitation
-**Premium single-page invitation** — card-opening animation, floral SVG art, song requests and a wishes wall.
-
-`HTML` `CSS` `JavaScript` `SVG Animation`
-
-[🔗 Live](YOUR_LINK)
+[🔗 Live](https://iqbalimpex.pages.dev/)
 
 </td>
 </tr>
@@ -210,12 +191,12 @@ const mufeed = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06b6d4&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mufeee09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06b6d4&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mufeee09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=06b6d4&currStreakLabel=6366f1" />
+<img src="https://streak-stats.demolab.com?user=mufeee09&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=06b6d4&currStreakLabel=6366f1" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=c9d1d9&line=6366f1&point=06b6d4&area=true&area_color=6366f1&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mufeee09&bg_color=0d1117&color=c9d1d9&line=6366f1&point=06b6d4&area=true&area_color=6366f1&hide_border=true" />
 
 </div>
 
@@ -225,9 +206,9 @@ const mufeed = {
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mufeee09/mufeee09/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mufeee09/mufeee09/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/mufeee09/mufeee09/output/github-snake.svg" />
 </picture>
 </div>
 
@@ -239,8 +220,8 @@ const mufeed = {
 
 **I'm open to full-stack / MERN roles — Dubai, on-site or remote — and freelance projects.**
 
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Hire%20Me-6366f1?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mohamed-mufeed-j/"><img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mmufeed493@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-6366f1?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6366f1,100:0f172a&height=120&section=footer" width="100%" />
 
